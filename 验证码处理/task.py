@@ -1,12 +1,8 @@
 import os
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt  # plt 用于显示图片
-import matplotlib.image as mpimg  # mpimg 用于读取图片
-import csv
-from PIL import Image
+import matplotlib.image as mpimg  
 import matplotlib.pyplot as plt
-import pandas as pd
 
 data=list()
 
